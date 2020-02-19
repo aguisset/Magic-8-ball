@@ -1,18 +1,49 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Magic 8 Ball
 
-## Our Goal
 
-The objective of this challenge is to apply the skills you learned in the Dicee tutorial and get you making an app with functionality all by yourself. There’s no new concepts here. But you’re flyin’ solo this time! Most of the programming skills are gained in the challenges rather than the tutorials. It’s when you’re using your new-found programming skills to bend the app to your will that you’re truly levelling up as a developer.
-
-## What you will create
-
-We’re going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
+Companion iOS project from Angela Bauer tutorial. The goal is to create an app with a Magic 8 Ball which will make all the difficult decisions for you.
 
 
+## Getting started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+### Prerequisites
 
-![End Banner](Documentation/readme-end-banner.png)
+Before you begin, you should already have the Xcode downloaded and set up correctly. Follow this guide to know how to do this here: [Setting up Xcode](https://developer.apple.com/xcode/)
 
+### Installing
+
+1. Download the I-am-single project source. You can do this either by forking and cloning the repository (recommended if you plan on pushing changes) or by downloading it as a ZIP file and extracting it. OR
+
+```$ git clone ```
+
+2. Navigate to the unzipped folder and open How I Feel in Valentines Day.xcodeproj from the folder.
+
+3. Build the project (⌘+B) and check for any errors.
+
+4. Run the app (⌘+R).and test it.
+
+Here is an example of the end results:
+
+![app screen shot]()
+
+## Built With
+
+* [Xcode](https://developer.apple.com/xcode/) - The IDE used to build iOS application.
+
+
+## Versioning
+
+I use [Git](https://git-scm.com/) for versioning on my machine
+
+## Authors
+
+* **Abdoul Guisset**
+
+### Contributors
+
+* **Angela Bauer**: Starting companion code.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
