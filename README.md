@@ -25,7 +25,7 @@ Before you begin, you should already have the Xcode downloaded and set up correc
 
 Here is an example of the end results:
 
-![app screen shot]()
+![app screen shot](https://github.com/aguisset/Magic-8-ball/blob/master/Documentation/screen-1.png)
 
 ## Built With
 
